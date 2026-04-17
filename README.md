@@ -1,75 +1,62 @@
-<h1 align="center">Hi 👋, I'm Harman Singh Jaggi</h1>
-<h3 align="center">Flutter Developer | AI/ML Enthusiast | Building Data-Driven Applications</h3>
+# Hi there, I'm Harman Singh Jaggi 👋
+
+### 🚀 Software Developer | AI/ML Enthusiast | Flutter Expert
+
+Welcome to my GitHub! I'm a software developer blending mobile engineering with advanced machine learning. I specialize in building scalable, high-performance solutions, particularly within quantitative finance, algorithmic trading, and real-time data environments. 
+
+## ⚡ About Me
+
+- 🎓 Pursuing an **M.Tech. in AI/ML** at the Birla Institute of Technology And Science (BITS).
+- 🔭 I’m currently developing a **Stock Trading AI Assistant**, focusing on automated stock data acquisition and predictive modeling.
+- 🌱 I’m actively exploring advanced machine learning frameworks, including **Federated Learning, Deep Reinforcement Learning, and Model Context Protocol (MCP)**.
+- 📦 I am the creator and maintainer of the open-source package **flutter_treemap** on pub.dev.
+- 💬 Ask me about: **Flutter architecture (BLoC, Riverpod), real-time WebSocket integrations, and Python ML pipelines.**
+- 📫 How to reach me: [harmanjaggs@gmail.com](mailto:harmanjaggs@gmail.com)
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently working at **Ventura Securities**
-- 📱 Software developer building scalable mobile & web apps
-- 🤖 Exploring **AI/ML for stock prediction & trading systems**
-- 📊 Interested in **data-driven decision systems & financial analytics**
-- 🎯 Goal: Transition into **AI-powered product development**
+## 🛠️ Tech Stack & Tools
+
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Mobile & Frontend:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-Architecture-blue?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge)
+
+**AI / Machine Learning:** ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ---
 
-<h3 align="left">📫 Connect with Me</h3>
+## 💼 Work Experience
 
-<p align="center">
-  <a href="https://linkedin.com/in/harman-jaggi-2001">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
-  </a>
+**Executive – Frontend Engineering (Flutter)** @ *Ventura Securities Ltd.* (Aug 2023 – Present)
+* Integrated commodities trading features into the core stock trading platform.
+* Implemented real-time data updates via WebSockets and optimized web performance, improving response speed by 20%.
+* Built interactive graphical visualizations and robust notification systems to boost user engagement.
 
-  <a href="https://leetcode.com/harmanjaggi">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="46" />
-  </a>
-</p>
-
----
-
-### 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,python,tensorflow,sklearn,git,mysql,cpp,js" />
-</p>
+**Software Developer (Intern)** @ *Zylu Business Solutions Pvt. Ltd.* (Feb 2023 – May 2023)
+* Optimized mobile application memory usage and operational efficiency.
+* Implemented complex state management architectures for seamless UI/data synchronization.
 
 ---
 
-### 🧠 AI/ML Focus
-- Machine Learning Models (Regression, Classification)
-- Stock Market Prediction Systems
-- Sentiment Analysis (TextBlob, VADER)
-- Data Analysis using Pandas
+## 🚀 Featured Projects
+
+* **[Customer Churn Pipeline](link):** End-to-end MLOps pipeline using Docker and MLflow for scalable data preprocessing, model tracking, and deployment.
+* **[LazyEngineer App](link):** Play Store published platform for student resources, built with robust BLoC state management and advanced filtering.
+* **[Parking Slot Detection System](link):** Real-time space detection using image processing and Support Vector Machines (SVM).
+* **[Food-Stuff App](link):** Recipe discovery application leveraging Hooks, Riverpod, and Dio for efficient networking.
 
 ---
 
-### 📊 GitHub Stats
+## 📜 Certifications
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harmanjaggi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harmanjaggi&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ⚡ What Makes Me Different
-- Blend of **Flutter + AI/ML** (rare combination)
-- Experience in **financial domain (trading systems)**
-- Building **real-world, scalable applications**
-- Strong problem-solving (DSA + system thinking)
-
----
-
-### 💡 Current Focus
-- 📈 AI for Stock Market (Prediction + Decision Systems)
-- 🤖 Building ML-powered apps
-- 🧠 Improving Data Structures & Algorithms
-
----
-
-### 📬 Reach Me
-- Email: **harmanjaggs@gmail.com**
-
----
+* **Machine Learning Specialization** — *Stanford University (May 2023)*
+  * Supervised Machine Learning: Regression and Classification | Advanced Learning Algorithms | Unsupervised Learning & Recommender Systems
