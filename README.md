@@ -49,10 +49,10 @@ Welcome to my GitHub! I'm a software developer blending mobile engineering with 
 
 ## 🚀 Featured Projects
 
-* **[Customer Churn Pipeline](link):** End-to-end MLOps pipeline using Docker and MLflow for scalable data preprocessing, model tracking, and deployment.
-* **[LazyEngineer App](link):** Play Store published platform for student resources, built with robust BLoC state management and advanced filtering.
-* **[Parking Slot Detection System](link):** Real-time space detection using image processing and Support Vector Machines (SVM).
-* **[Food-Stuff App](link):** Recipe discovery application leveraging Hooks, Riverpod, and Dio for efficient networking.
+* **[Customer Churn Pipeline](https://github.com/Harmanjaggi/customer_churn_pipeline):** End-to-end MLOps pipeline using Docker and MLflow for scalable data preprocessing, model tracking, and deployment.
+* **[LazyEngineer App](https://github.com/Harmanjaggi/lazy_engineer):** Play Store published platform for student resources, built with robust BLoC state management and advanced filtering.
+* **[Parking Slot Detection System](https://github.com/Harmanjaggi/Parking-spot-detection):** Real-time space detection using image processing and Support Vector Machines (SVM).
+* **[Food-Stuff App](https://github.com/Harmanjaggi/food_stuff):** Recipe discovery application leveraging Hooks, Riverpod, and Dio for efficient networking.
 
 ---
 
